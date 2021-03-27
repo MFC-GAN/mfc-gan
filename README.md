@@ -1,4 +1,8 @@
-### Hi there 👋
+### Requirements
+1. tensorflow 1.3
+2. python 2.7
+3. opencv
+4. matplotlib
 
 <!--
 **MFC-GAN/mfc-gan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
